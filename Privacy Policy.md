@@ -73,7 +73,8 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-- **Email**: (Draft a mail)[RiPlay@neoinsights.co]
+- **Email**: [RiPlay@neoinsights.co](mailto:RiPlay@neoinsights.co)
+- **Address**: [Insert Contact Address]
 
 By using our App, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
 
